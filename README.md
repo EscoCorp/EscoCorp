@@ -1,5 +1,1 @@
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=ffffff)
-![Shell](https://img.shields.io/badge/Shell-89E051?style=flat&logo=gnubash&logoColor=ffffff)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=ffffff)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=ffffff)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=ffffff)
+Mindustry server.
